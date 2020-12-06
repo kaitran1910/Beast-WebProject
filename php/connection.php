@@ -2,7 +2,7 @@
 $server = "localhost";
 $userName = "root";
 $password = "";
-$dbname = "bestmain";
+$dbname = "beastmain";
 
 $conn = new mysqli($server,$userName,$password,$dbname);
 if(!$conn){
